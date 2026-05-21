@@ -11,10 +11,22 @@
       "Cada projeto para nós é único. Acreditamos que a marcenaria de qualidade é aquela que otimiza espaços, une ergonomia com estética refinada e realiza o sonho de transformar casas em lares confortáveis e acolhedores."
     ],
     "stats": [
-      { "value": "10+", "label": "Anos de Experiência" },
-      { "value": "500+", "label": "Projetos Entregues" },
-      { "value": "100%", "label": "Clientes Satisfeitos" },
-      { "value": "5 Anos", "label": "Garantia de Fábrica" }
+      {
+        "value": "10+",
+        "label": "Anos de Experiência"
+      },
+      {
+        "value": "500+",
+        "label": "Projetos Entregues"
+      },
+      {
+        "value": "100%",
+        "label": "Clientes Satisfeitos"
+      },
+      {
+        "value": "5 Anos",
+        "label": "Garantia de Fábrica"
+      }
     ]
   },
   "materials": [
@@ -82,6 +94,13 @@
       "category": "corporativo",
       "image": "/uploads/office_workspace.png",
       "description": "Estação de trabalho compartilhada com divisórias acústicas, gaveteiros integrados e organizadores de cabos."
+    },
+    {
+      "id": "proj-1779384124965",
+      "title": "test",
+      "category": "cozinha",
+      "image": "/uploads/1779384131832_vid-20251115-wa0004.mp4",
+      "description": "t"
     }
   ]
 }
