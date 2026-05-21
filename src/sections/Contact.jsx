@@ -92,7 +92,7 @@ export default function Contact({ whatsappNumber }) {
                   </div>
                   <div style={{ textAlign: 'left' }}>
                     <div style={{ fontSize: '0.8rem', color: 'var(--text-muted)' }}>Nosso Showroom</div>
-                    <div style={{ fontWeight: '600', color: 'var(--text)' }}>Av. Principal da Marcenaria, 1000 - SP</div>
+                    <div style={{ fontWeight: '600', color: 'var(--text)' }}>R. Carlos de Campos, 299 - Vila Boa Vista, Barueri - SP</div>
                   </div>
                 </div>
               </div>
