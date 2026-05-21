@@ -102,7 +102,7 @@ export default function Contact({ whatsappNumber }) {
             <div className="contact-map-wrapper">
               <iframe 
                 title="Localização da Marcenaria Inova"
-                src="https://maps.google.com/maps?q=Av.%20Paulista,%201000,%20Sao%20Paulo&t=&z=15&ie=UTF8&iwloc=&output=embed" 
+                src="https://maps.google.com/maps?q=R.%20Carlos%20de%20Campos,%20299%20-%20Vila%20Boa%20Vista,%20Barueri%20-%20SP,%2006411-210&t=&z=15&ie=UTF8&iwloc=&output=embed" 
                 allowFullScreen
                 loading="lazy"
               ></iframe>
